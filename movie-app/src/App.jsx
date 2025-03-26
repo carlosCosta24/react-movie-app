@@ -4,10 +4,8 @@ import Nav from './components/navbar/navbar'
 function App() {
 
   return (
-    <div class='flex' >
-
+    <div className=''>
       <Nav />
-
     </div>
   )
 }
